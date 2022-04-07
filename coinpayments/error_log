@@ -1,0 +1,10 @@
+[05-Mar-2020 04:57:36 UTC] PHP Notice:  Undefined index: amount in /home/thebtcge/public_html/coinpayments/process.php on line 8
+[05-Mar-2020 04:57:36 UTC] PHP Notice:  Undefined index: email in /home/thebtcge/public_html/coinpayments/process.php on line 9
+[05-Mar-2020 18:23:25 UTC] PHP Warning:  require(init.php): failed to open stream: No such file or directory in /home/thebtcge/public_html/coinpayments/index.php on line 3
+[05-Mar-2020 18:23:25 UTC] PHP Warning:  require(init.php): failed to open stream: No such file or directory in /home/thebtcge/public_html/coinpayments/index.php on line 3
+[05-Mar-2020 18:23:25 UTC] PHP Fatal error:  require(): Failed opening required 'init.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/thebtcge/public_html/coinpayments/index.php on line 3
+[05-Mar-2020 18:23:29 UTC] PHP Warning:  require(init.php): failed to open stream: No such file or directory in /home/thebtcge/public_html/coinpayments/index.php on line 3
+[05-Mar-2020 18:23:29 UTC] PHP Warning:  require(init.php): failed to open stream: No such file or directory in /home/thebtcge/public_html/coinpayments/index.php on line 3
+[05-Mar-2020 18:23:29 UTC] PHP Fatal error:  require(): Failed opening required 'init.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/thebtcge/public_html/coinpayments/index.php on line 3
+[06-Mar-2020 12:27:04 UTC] PHP Notice:  Undefined index: amount in /home/thebtcge/public_html/coinpayments/process.php on line 8
+[06-Mar-2020 12:27:04 UTC] PHP Notice:  Undefined index: email in /home/thebtcge/public_html/coinpayments/process.php on line 9

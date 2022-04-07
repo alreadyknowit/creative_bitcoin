@@ -1,0 +1,60 @@
+[06-Mar-2020 17:28:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thebtcge/public_html/index.php on line 241
+[06-Mar-2020 17:28:35 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/thebtcge/public_html/index.php on line 244
+[06-Mar-2020 17:28:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/thebtcge/public_html/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/thebtcge/public_html/index.php on line 250
+[06-Mar-2020 18:25:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thebtcge/public_html/index.php on line 241
+[06-Mar-2020 18:25:30 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/thebtcge/public_html/index.php on line 244
+[06-Mar-2020 18:25:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/thebtcge/public_html/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/thebtcge/public_html/index.php on line 250
+[06-Mar-2020 18:45:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thebtcge/public_html/index.php on line 241
+[06-Mar-2020 18:45:34 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/thebtcge/public_html/index.php on line 244
+[06-Mar-2020 18:45:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/thebtcge/public_html/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/thebtcge/public_html/index.php on line 250
+[06-Mar-2020 18:45:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thebtcge/public_html/index.php on line 241
+[06-Mar-2020 18:45:59 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/thebtcge/public_html/index.php on line 244
+[06-Mar-2020 18:45:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/thebtcge/public_html/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/thebtcge/public_html/index.php on line 250
+[06-Mar-2020 18:46:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thebtcge/public_html/index.php on line 241
+[06-Mar-2020 18:46:08 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/thebtcge/public_html/index.php on line 244
+[06-Mar-2020 18:46:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/thebtcge/public_html/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/thebtcge/public_html/index.php on line 250
+[06-Mar-2020 18:46:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thebtcge/public_html/index.php on line 241
+[06-Mar-2020 18:46:19 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/thebtcge/public_html/index.php on line 244
+[06-Mar-2020 18:46:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/thebtcge/public_html/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/thebtcge/public_html/index.php on line 250
+[06-Mar-2020 18:46:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thebtcge/public_html/index.php on line 241
+[06-Mar-2020 18:46:25 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/thebtcge/public_html/index.php on line 244
+[06-Mar-2020 18:46:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/thebtcge/public_html/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/thebtcge/public_html/index.php on line 250
+[06-Mar-2020 18:46:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thebtcge/public_html/index.php on line 241
+[06-Mar-2020 18:46:40 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/thebtcge/public_html/index.php on line 244
+[06-Mar-2020 18:46:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/thebtcge/public_html/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/thebtcge/public_html/index.php on line 250
+[06-Mar-2020 18:55:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thebtcge/public_html/index.php on line 241
+[06-Mar-2020 18:55:21 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/thebtcge/public_html/index.php on line 244
+[06-Mar-2020 18:55:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/thebtcge/public_html/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/thebtcge/public_html/index.php on line 250
+[06-Mar-2020 19:04:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/thebtcge/public_html/index.php on line 241
+[06-Mar-2020 19:04:11 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/thebtcge/public_html/index.php on line 244
+[06-Mar-2020 19:04:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/thebtcge/public_html/index.php:250
+Stack trace:
+#0 {main}
+  thrown in /home/thebtcge/public_html/index.php on line 250

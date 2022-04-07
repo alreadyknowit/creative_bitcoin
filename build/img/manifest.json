@@ -1,0 +1,42 @@
+{
+  "name": "\uD83D\uDCB8 DeDoubler.to",
+  "share_target": {
+    "action": "/",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "url": "link",
+      "text": "text",
+      "files": [
+        {
+          "name": "wallet",
+          "accept": ["image/png", ".png"]
+        }
+      ]
+    }
+  },
+  "short_name": "\uD83D\uDCB8 Doubler.to",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "build/img/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "build/img/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "build/img/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
